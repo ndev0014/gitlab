@@ -1,0 +1,4 @@
+tis is kuernetes
+docker
+jenkins
+maven
